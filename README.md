@@ -26,8 +26,6 @@ These resources are beneficial for students enrolled in MT-205 or any individual
 Contributions to this repository are welcome! If you have additional resources, corrections, or improvements to the existing materials, please submit a pull request.
 
 ## License
-This project is open-sourced under the [MIT License](LICENSE.md).
-
+This project is open-sourced.
 ---
 
-Replace `[LICENSE.md]` with the actual link to your license file if it's different. This README is structured to provide a clear, organized view of what the repository contains and how users can benefit from and contribute to it.
